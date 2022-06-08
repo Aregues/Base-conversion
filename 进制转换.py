@@ -26,4 +26,3 @@ while True:
     Middle_Number=int(X_To_Ten(x))
     Ten_To_Y(int(y))
 
-    
