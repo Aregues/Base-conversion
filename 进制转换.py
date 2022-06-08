@@ -1,4 +1,4 @@
-
+ 
 def X_To_Ten(x):
     return(int(Middle_Number,x))    
 
